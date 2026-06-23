@@ -2,13 +2,14 @@
 
 Bienvenue sur mon profil GitHub !  
 
-Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & Data Engineering**, spécialisé dans l’analyse de données, le NLP et le déploiement de solutions automatisées sur le cloud.
-- Je travaille exclusivement en environnement **Python**, avec une forte composante **DevOps** (Docker, GitHub Actions, K8S, serveur distant).
+Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & Data Engineering**, spécialisé dans l’analyse de données, le NLP et le déploiement de solutions automatisées.
+- Je travaille en environnement **Python**, avec une forte composante **DevOps** (Docker, GitHub Actions, K8S, serveur distant).
 - Je suis disponible pour toute mission ponctuelle ou de longue durée dans une équipe passionnée sur tout type de sujet technique.
 
 🎯 **Mes missions récentes :**  
 - Accompagner des entreprises dans le développement de pipelines IA robustes pour la mise en place de systèmes RAG, valider des White Papers RWA pour une autorité de régulation, analyser et générer des **news crypto** et des holders sur tokens ERC-20, des **CV RH**, ou encore structurer les données pour des dashboards **Power BI**.
 - Pilotage d’un projet Big Data interne en PME (Domaine Le Pommier) : conception d’une plateforme de suivi opérationnel en temps réel, avec centralisation des données comptables, RH, logistiques et commerciales.
+- Formateur en ML & IA pour étudiants, entrepreneurs, candidats POEI
 
 💼 **Profil hybride Tech / Gestion :** 
 - avec +10 ans d’expérience de Directeur opérationnel PME & pilotage de projets techniques.
@@ -153,5 +154,5 @@ https://campinglepommier.com/
 
 💬 Je suis toujours curieux de nouveaux projets IA, data et formation. N’hésitez pas à me contacter !
 
-PS : les repo github disponibles ici proviennent de mon cursus de formation, mes repo privés dans le cadre de mes missions ne sont pas disponibles car propriétaires.
+PS : mes repo privés dans le cadre de mes missions ne sont pas disponibles car propriétaires.
 
