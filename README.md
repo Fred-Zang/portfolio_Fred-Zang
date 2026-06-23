@@ -31,6 +31,7 @@ Je suis **Fred Zanghi**, ingénieur freelance en **Intelligence Artificielle & D
 
 🔧 Stack : **Python**, parsing XML & ETL, **RAG** (BM25/dense/hybride), vector search, **évaluation IR**, API FastAPI/LangChain, observabilité (traces/logs), outillage d’industrialisation
 
+---
 
 ### 🔹 Projet RWA — Plateforme d’analyse IA de whitepapers crypto
 > Client : Virtual Assets Regulatory Authority (VARA – Dubaï) — 2025  
@@ -134,7 +135,7 @@ https://campinglepommier.com/
 ## 🧰 Compétences techniques
 
 - **Langages** : Python, Bash, SQL  
-- **IA / ML** : Scikit-Learn, TensorFlow, PyTorch, NLP, clustering, séries temporelles  
+- **IA / ML** : Scikit-Learn, TensorFlow, PyTorch, NLP, clustering, séries temporelles, N8N 
 - **DevOps** : Docker, GitHub/GitLab CI, K8S, déploiement serveur  
 - **Web scraping** : BeautifulSoup, Selenium, API REST  
 - **Visualisation** : Power BI, Matplotlib, Seaborn  
