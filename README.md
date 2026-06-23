@@ -102,6 +102,8 @@ https://campinglepommier.com/
 
 🔧 *Stack : PHP, SQL, Excel avancé, reporting BI, réseaux, automatisation métier, supervision d’infrastructure*
 
+---
+
 ### 🔹 Enveloppe convexe 3D incrémentale — Reconstruction d’un projet universitaire de 1991
 
 > Projet personnel de géométrie algorithmique — Super-Pascal 1991, reconstruction Python 2026
