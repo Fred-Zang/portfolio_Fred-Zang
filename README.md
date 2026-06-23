@@ -102,6 +102,31 @@ https://campinglepommier.com/
 
 🔧 *Stack : PHP, SQL, Excel avancé, reporting BI, réseaux, automatisation métier, supervision d’infrastructure*
 
+### 🔹 Enveloppe convexe 3D incrémentale — Reconstruction d’un projet universitaire de 1991
+
+> Projet personnel de géométrie algorithmique — Super-Pascal 1991, reconstruction Python 2026
+
+* Reconstruction en Python d’un projet **mathématiques–informatique initialement développé en Super-Pascal en 1991** à partir de coordonnées tridimensionnelles ((x, y, z)).
+* Développement d’un moteur historique d’**enveloppe convexe 3D incrémentale** : détection des faces visibles, calcul de l’horizon, suppression locale des faces et création du nouveau capuchon triangulaire.
+* Comparaison avec une première approche recalculant l’enveloppe complète via **SciPy/Qhull** à chaque insertion.
+* Accélération mesurée jusqu’à **×87** sur un benchmark de 2 000 points placés sur une sphère :
+
+  * moteur SciPy : environ 182 secondes ;
+  * moteur incrémental : environ 2,1 secondes.
+* Pipeline scientifique complet :
+
+  * import de nuages de points depuis **Excel, CSV ou Parquet** ;
+  * validation et nettoyage avec **Pandas** ;
+  * traçabilité des données et des exécutions dans **DuckDB** ;
+  * validation géométrique avec SciPy ;
+  * vérification de la formule d’Euler (V-E+F=2) ;
+  * contrôle des arêtes, des orientations, de l’aire et du volume ;
+  * génération automatique d’un rapport technique et des exports.
+* Visualisation interactive de la surface finale avec **PyVista**, rotation 3D et coloration des faces avec quatre couleurs.
+* Projet accompagné de tests automatisés, GitHub Actions, documentation mathématique, audit de sécurité et environnement reproductible.
+
+🔧 *Stack : Python, NumPy, SciPy/Qhull, Pandas, DuckDB, PyVista/VTK, OpenPyXL, Pytest, Ruff, GitHub Actions*
+
 ---
 
 ## 🧰 Compétences techniques
